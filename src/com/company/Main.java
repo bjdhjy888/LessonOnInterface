@@ -1,7 +1,7 @@
 /*
 学习目标：接口(具体明确各个类必须实现的行为的抽象类型)；与协议类似；是抽象方法的集合;
 实际应用：多人协作编程；面向接口编程；一个类通过继承接口的方式，从而来继承接口的抽象方法。
-概念定义：- Separate interface from implementation
+概念定义：- 接口与实现分离
         - A common interface can be expressed differently for each different subtype
         - A common interface establishes a basic form of what is common for all the derived classes
         - An abstract class for manipulating a set of classes through its common interface

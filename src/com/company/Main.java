@@ -40,14 +40,16 @@ public class Main {
 
         Virus coronaVirus = new Virus();
         System.out.println("Coronaviruses ate " + coronaVirus.eat() + " cell yesterday.");
-        System.out.print("Coronaviruses sometimes ");coronaVirus.travel();
+        System.out.print("Coronaviruses sometimes ");
+        coronaVirus.travel();
         System.out.println("Coronaviruses drink " + coronaVirus.drink());
         System.out.println("Are coronaviruses old? " + coronaVirus.isSenior());
 
         Ultraman myUltraman = new Ultraman();
         System.out.println("My Ultraman ate " + myUltraman.eat() + " aliens yesterday.");
         System.out.println("My Ultraman flies at " + myUltraman.speed() + " km/h.");
-        System.out.print("My Ultraman sometimes ");myUltraman.travel();
+        System.out.print("My Ultraman sometimes ");
+        myUltraman.travel();
         System.out.println("My Ultraman drinks " + myUltraman.drink());
         System.out.println("Are my Ultraman old? " + myUltraman.isSenior());
 

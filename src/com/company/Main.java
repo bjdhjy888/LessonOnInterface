@@ -32,7 +32,7 @@ public class Main {
         System.out.println("Is my bear old? " + myBear.isSenior());
 
         Cousin Jim = new Cousin();
-        System.out.println("Jim ate " + Jim.eat() + " burgers last night.");
+        System.out.println("Jim ate " + Jim.eat() + " burgers last year.");
         System.out.print("Jim visits ");
         Jim.travel();
         System.out.println("Jim always drinks " + Jim.drink() + " before he goes to bed.");

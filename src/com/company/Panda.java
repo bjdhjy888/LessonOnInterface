@@ -1,5 +1,6 @@
 package com.company;
 
+// 定义接口
 public interface Panda {
-    public int eat();
+    int eat();
 }

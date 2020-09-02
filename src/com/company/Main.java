@@ -48,15 +48,11 @@ public class Main {
         System.out.println("My Ultraman drinks " + myUltraman.drink());
         System.out.println("Are my Ultraman old? " + myUltraman.isSenior());
 
-
-
         Cousin myDaughter = new Cousin();
         System.out.println("My daughter prefers to drink " + myDaughter.drink() + ".");
 
-
         Bear myMom = new Bear();
         System.out.println("My mom hates drinking " + myMom.drink() + ".");
-
 
         Virus Trump = new Virus();
         System.out.println("Trump drinks " + Trump.drink() + ".");

@@ -4,7 +4,7 @@
 概念定义：- 接口与实现分离
         - A common interface can be expressed differently for each different subtype
         - A common interface establishes a basic form of what is common for all the derived classes
-        - An abstract class for manipulating a set of classes through its common interface
+        - 抽象类可使用共同的接口操纵一组类
         - An interface is a form and used to establish a protocol between classes
         - 接口不能被实例化
 另请参阅：- https://en.wikipedia.org/wiki/Interface_(Java)

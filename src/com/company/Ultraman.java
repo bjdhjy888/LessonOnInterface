@@ -2,7 +2,7 @@ package com.company;
 
 public class Ultraman {
     public int eat(){
-        return 0;
+        return 1;
     }
 
     public float speed(){

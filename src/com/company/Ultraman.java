@@ -6,7 +6,7 @@ public class Ultraman {
     }
 
     public float speed(){
-        return 800000;
+        return 80000;
     }
 
     public void travel(){

@@ -1,6 +1,6 @@
 package com.company;
 
-public class Virus {
+public class Virus implements LivingOrganisms{
     public int eat(){
         return 0;
     }

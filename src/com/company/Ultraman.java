@@ -1,6 +1,6 @@
 package com.company;
 
-public class Ultraman {
+public class Ultraman implements LivingOrganisms{
     public int eat(){
         return 1;
     }

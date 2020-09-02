@@ -1,6 +1,6 @@
 package com.company;
 
-public class Bear {
+public class Bear implements LivingOrganisms {
     public int eat(){
         return 8;
     }

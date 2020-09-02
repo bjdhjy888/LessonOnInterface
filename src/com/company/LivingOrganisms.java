@@ -1,8 +1,9 @@
 package com.company;
 
+// 定义接口
 public interface LivingOrganisms {
-    public int eat();
-    public void travel();
-    public String drink();
-    public boolean isSenior();
+    int eat();
+    void travel();
+    String drink();
+    boolean isSenior();
 }

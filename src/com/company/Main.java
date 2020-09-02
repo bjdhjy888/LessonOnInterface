@@ -49,15 +49,15 @@ public class Main {
         System.out.println("Are my Ultraman old? " + myUltraman.isSenior());
 
 
-        // 多态：同一个接口，使用不同的实例而执行不同操作
+
         Cousin myDaughter = new Cousin();
         System.out.println("My daughter prefers to drink " + myDaughter.drink() + ".");
 
-        // 多态：同一个接口，使用不同的实例而执行不同操作
+
         Bear myMom = new Bear();
         System.out.println("My mom hates drinking " + myMom.drink() + ".");
 
-        // 多态：同一个接口，使用不同的实例而执行不同操作
+
         Virus Trump = new Virus();
         System.out.println("Trump drinks " + Trump.drink() + ".");
     }

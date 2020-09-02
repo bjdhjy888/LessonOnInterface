@@ -15,9 +15,8 @@
         - "Thinking in Java", 4th Edition, Bruce Eckel
 调用API: N/A
 
-git commit操作的是本地库，git push操作的是远程库。
-git commit是将本地修改过的文件提交到本地库中。
-git  push是将本地库中的最新信息发送给远程库
+commit操作的是本地库，是将本地修改过的文件提交到本地库中。
+push操作的是远程库，将本地库中的最新信息发送给远程库
 */
 
 package com.company;
